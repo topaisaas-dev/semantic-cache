@@ -1,7 +1,7 @@
 # Semantic Cache & Token Saver API
 
 [![Status](https://img.shields.io/badge/Status-Operational-brightgreen)](https://semantic-cache.topaisaas.workers.dev/v1/health)
-[![RapidAPI](https://img.shields.io/badge/RapidAPI-Subscribe-blue?logo=rapidapi)](https://rapidapi.com/user/topaisaasdev)
+[![RapidAPI](https://img.shields.io/badge/RapidAPI-Subscribe-blue?logo=rapidapi)](https://rapidapi.com/topaisaasdev/api/semantic-cache-token-saver-api/pricing)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Cloudflare%20Workers-orange)](https://workers.cloudflare.com)
 
